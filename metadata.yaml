@@ -1,11 +1,16 @@
 _repo: A-Letter-from-the-Fire-Being-an-account-of-the-Great-Chicago-Fire_66472
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66472-h/images/cover.jpg
 creator:
   author:
     agent_name: Foster, Thomas D.
     gutenberg_agent_id: '53826'
     url: http://www.gutenberg.org/2009/agents/53826
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66472#A-Letter-from-the-Fire-Being-an-account-of-the-Great-Chicago-Fire
 gutenberg_issued: '2021-10-05'
 identifiers:
   gutenberg: '66472'
